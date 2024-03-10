@@ -11,19 +11,31 @@
 |팀원|Hong Jae Min, Lee Jae Min|
 
 
-### 1. 주요 라이브러리(파이썬)
+## 1. 주요 라이브러리(파이썬)
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
--XGBoost, 시본, 맷플롯립
+XGBoost, Seaborn, Matplotlib
 
 
-### 2. 수행내용
+## 2. 수행내용
 -조선, 해양 도메인 조사
 -변수별 상관관계, 분포 시각화 > 인사이트 획득
 -모델링, 최적화
 -프로젝트 관리: 일정 및 계획 수립, 진도 관리
 
-### 3. 핵심 아이디어
--계층적 K-Fold 검증에서 데이터셋 의 분배 기준을 획득한 인사이트로 설정
+## 3. 핵심 아이디어
+#### 1) 인사이트
+EDA를 통해 DIST변수가 0.1~75 / 75~175 / 175~ 와 같이 3구간으로 나눠지는 것을 확인함
+(DIST가 0인 경우는 Target값이 대부분 0인것을 확인했기 때문에 따로 학습)
+![image](https://github.com/CodeofO/Ship_Wait_Time_Predict/assets/99871109/dfa70bba-4f1c-489c-9fa9-40977bb4d5fe)
+
+
+
+#### 2) 
+
+#### 3) 
+
+
+
 순위 : 91 → 34등
 성능 : 5.8%% 향상
 
