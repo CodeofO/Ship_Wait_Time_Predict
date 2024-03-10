@@ -13,7 +13,7 @@
 
 1. 주요 라이브러리(파이썬)
 -XGBoost, 시본, 맷플롯립
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=아이콘이름&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 
