@@ -8,7 +8,6 @@
 |주최|HD한국조션해양 AI Center, DACON|
 |요약|선박의 대기시간(연속, 수치형 변수)를 예측하는 회귀문제를 머신러닝 알고리즘 기반으로 해결했습니다.|
 |역할|리더/ 역할 분배/ 도메인 조사/ EDA / 알고리즘 개발|
-|팀원|Hong Jae Min, Lee Jae Min|
 
 **경진대회 더 자세히 알아보기 🔻**<br>
 https://dacon.io/competitions/official/236158/overview/description
