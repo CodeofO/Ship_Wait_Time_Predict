@@ -6,15 +6,14 @@
 |제안배경|연료 절감 및 온실감스 감축효과를 위해 고안된 프로젝트입니다.|
 |기간|2023.09 ~ 2023.10|
 |주최|HD한국조션해양 AI Center|
-|요약|선백의 대기시간(연속, 수치형 변수)를 예측하는 회귀문제를 머신러닝 알고리즘 기반으로 해결했습니다.|
+|요약|선박의 대기시간(연속, 수치형 변수)를 예측하는 회귀문제를 머신러닝 알고리즘 기반으로 해결했습니다.|
 |역할|리더/ 역할 분배/ 도메인 조사/ EDA / 알고리즘 개발|
 |팀원|Hong Jae Min, Lee Jae Min|
 
 
 1. 주요 라이브러리(파이썬)
--XGBoost, 시본, 맷플롯립
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
+-XGBoost, 시본, 맷플롯립
 
 
 3. 수행내용
