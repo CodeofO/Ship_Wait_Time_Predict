@@ -10,7 +10,7 @@
 |역할|리더/ 역할 분배/ 도메인 조사/ EDA / 알고리즘 개발|
 |팀원|Hong Jae Min, Lee Jae Min|
 
-**경진대회 더 자세히 알아보기 🔻**
+**경진대회 더 자세히 알아보기 🔻**<br>
 https://dacon.io/competitions/official/236158/overview/description
 <br>
 <br>
@@ -18,6 +18,12 @@ https://dacon.io/competitions/official/236158/overview/description
 ## 1. 주요 라이브러리(파이썬)
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 XGBoost, Seaborn, Matplotlib
+
+|라이브러리 명|설명|
+|--|--|
+|XGBoost|XGBoost는 빠른 속도와 높은 정확도를 자랑하는 트리 기반 알고리즘으로, 분류, 회귀, 랭킹 등 다양한 문제에 활용될 수 있습니다.<br>대표적인 앙상블 부스팅 알고리즘입니다.|
+|Seaborn|시각화 라이브러리|
+|Matplotlib|시각화 라이브러리|
 
 
 ## 2. 수행내용
